@@ -41,6 +41,12 @@ const authors = [
         name: 'William Shakespeare',
         imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/a/aa/Dickens_Gurney_head.jpg',
         books: ['Hamlet', 'Macbeth', 'Romeo and Juliet']
+    },
+    {
+        id: 7,
+        name: 'Jackson Mwaniki',
+        imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/a/aa/Dickens_Gurney_head.jpg',
+        books: ['Hamlet', 'Macbeth', 'Romeo and Juliet']
     }
 ];
 
