@@ -53,6 +53,12 @@ const authors = [
         name: 'Gitundu',
         imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/a/aa/Dickens_Gurney_head.jpg',
         books: ['Macbeth', 'Romeo and Juliet']
+    },
+    {
+        id: 9,
+        name: 'James',
+        imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/a/aa/Dickens_Gurney_head.jpg',
+        books: ['Macbeth', 'Romeo and Juliet']
     }
 ];
 
